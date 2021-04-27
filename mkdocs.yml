@@ -1,0 +1,8 @@
+site_name: "api-transferencia"
+site_description: "api transferencia"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
